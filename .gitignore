@@ -6,6 +6,12 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+node_modules/
+.vscode/
+settings.json
+secretnotes.md
+imports/lib/
+public/fonts/
 
 # =============== #
 # Unity folders   #
